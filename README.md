@@ -28,7 +28,7 @@ The **PG Locator App** is an Android-based mobile application designed to help u
 ---
 
 ## 📸 Screenshots
-
+(https://github.com/KrushnAKhairnaR/PG-Locator-Android-App/blob/main/2ndPG.jpeg?raw=true)
 
 
 ## 📦 How to Run the Project
